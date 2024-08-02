@@ -21,3 +21,5 @@ Adjust the BASE_URL in config.php if necessary. Remember that this app is writte
 Access the app through your web server, typically at http://<ip_address>
 
 This structure allows for easy expansion. You can add more controllers for different features, create additional service methods for new API endpoints, and expand the views as needed.
+
+5F64U0209RDZJJR9
