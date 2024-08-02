@@ -17,7 +17,7 @@ Set up a PHP environment (like LEMP).
 Create the directory structure as shown.
 Copy each file into its respective directory.
 Replace 'YOUR_API_KEY' in config.php with your actual AlphaVantage API key.
-Adjust the BASE_URL in config.php if necessary. Remember that this app is written with consderating nginx.
+Adjust the BASE_URL in config.php if necessary. Remember that this app is written with consderating nginx - use given nginx.conf as needed.
 Access the app through your web server, typically at http://<ip_address>
 
 This structure allows for easy expansion. You can add more controllers for different features, create additional service methods for new API endpoints, and expand the views as needed.
